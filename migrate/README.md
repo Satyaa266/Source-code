@@ -34,4 +34,6 @@
 
 
 9. By defalut the embedded tomcat server runs on 8080 port
-10. Once the servr started successfully, hit the following url(end-point) to download the data in CSV format 
+10. Once the server started successfully, hit the following url(end-point) to download the data in CSV format
+
+http://localhost:8080/wns/migrate/export-csv

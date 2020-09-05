@@ -21,6 +21,8 @@
 7. Clone the project and import into eclipse
 8. Set the following environment variable in eclipse to read the custom property file.
 
+./eclipse_setup1.png
+
 
 
 
